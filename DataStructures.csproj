@@ -43,8 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DoublyLinkedList.cs" />
+    <Compile Include="HashTableArrayImplLinearProbing.cs" />
+    <Compile Include="HashTableHolder.cs" />
+    <Compile Include="LinkedListNode.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueueArrayImpl.cs" />
+    <Compile Include="QueueListImpl.cs" />
+    <Compile Include="StackArrayImpl.cs" />
+    <Compile Include="StackListImpl.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
