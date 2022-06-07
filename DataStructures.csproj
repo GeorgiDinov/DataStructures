@@ -47,6 +47,8 @@
     <Compile Include="BreadthFirstSearch.cs" />
     <Compile Include="BSTNode.cs" />
     <Compile Include="BSTree.cs" />
+    <Compile Include="DepthFirstSearch.cs" />
+    <Compile Include="DepthFirstSearchRecursionImpl.cs" />
     <Compile Include="DoublyLinkedList.cs" />
     <Compile Include="HashTableArrayImplLinearProbing.cs" />
     <Compile Include="HashTableHolder.cs" />
