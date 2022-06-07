@@ -115,7 +115,7 @@ namespace DataStructures
         }
 
 
-        //traversals with the respect of when e visit the parent node
+        //traversals with the respect of when we visit the parent node
 
         public void TraverseInOrder()// visit leftChild, parent and rightChild
         {

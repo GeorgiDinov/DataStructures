@@ -48,6 +48,7 @@
     <Compile Include="DoublyLinkedList.cs" />
     <Compile Include="HashTableArrayImplLinearProbing.cs" />
     <Compile Include="HashTableHolder.cs" />
+    <Compile Include="MaxHeap.cs" />
     <Compile Include="LinkedListNode.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
