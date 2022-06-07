@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BFSWebCrawler.cs" />
+    <Compile Include="BreadthFirstSearch.cs" />
     <Compile Include="BSTNode.cs" />
     <Compile Include="BSTree.cs" />
     <Compile Include="DoublyLinkedList.cs" />
@@ -57,6 +59,7 @@
     <Compile Include="QueueListImpl.cs" />
     <Compile Include="StackArrayImpl.cs" />
     <Compile Include="StackListImpl.cs" />
+    <Compile Include="Vertex.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
