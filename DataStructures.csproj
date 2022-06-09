@@ -50,6 +50,7 @@
     <Compile Include="DepthFirstSearch.cs" />
     <Compile Include="DepthFirstSearchRecursionImpl.cs" />
     <Compile Include="DoublyLinkedList.cs" />
+    <Compile Include="Edge.cs" />
     <Compile Include="HashTableArrayImplLinearProbing.cs" />
     <Compile Include="HashTableHolder.cs" />
     <Compile Include="MaxHeap.cs" />
